@@ -1,4 +1,24 @@
-### Hi there 👋
+<h3 align="center">
+    <samp>
+      Hi, I am <a target="_blank" href="https://yaavi.me"><ins>Yaavi</ins></a> 👋
+    </samp>
+</h3>
+
+<h3 align="center">
+  <i>
+    <samp>
+      Love life and enjoy programming. 😄
+    </samp>
+  </i>
+</h3>
+
+<h3 align="center">
+  <i>
+    <samp>
+      ✨ Never too old to learn ✨
+    </samp>
+  </i>
+</h3>
 
 <!--
 **vsme/vsme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
