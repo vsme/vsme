@@ -25,7 +25,7 @@ Love life and enjoy programming.
 
 ---
 
-💬 Ask me about anything [here](https://github.com/vsme/vsme/issues).
+💬 Feel free to ask me anything [here](https://github.com/vsme/vsme/issues).
 <!--
 ✨ Never too old to learn
 **vsme/vsme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
