@@ -1,10 +1,6 @@
-<h3>
-    <samp>
-        👋 Hi, I am <a target="_blank" href="https://yaavi.me"><ins>Yaavi</ins></a> 
-    </samp>
-</h3>
+### Hi, I am <a target="_blank" href="https://yaavi.me"><ins>Yaavi</ins></a>.
 
-😄 Love life and enjoy programming. 
+Love life and enjoy programming. 
 
 #### Languages
 
