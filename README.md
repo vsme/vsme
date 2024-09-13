@@ -1,32 +1,37 @@
-<h3 align="center">
+<h3>
     <samp>
-      Hi, I am <a target="_blank" href="https://yaavi.me"><ins>Yaavi</ins></a> 👋
+        👋 Hi, I am <a target="_blank" href="https://yaavi.me"><ins>Yaavi</ins></a> 
     </samp>
 </h3>
 
-<h3 align="center">
-  <i>
-    <samp>
-      Love life and enjoy programming. 😄
-    </samp>
-  </i>
-</h3>
+😄 Love life and enjoy programming. 
 
-<h3 align="center">
-  <i>
-    <samp>
-      ✨ Never too old to learn ✨
-    </samp>
-  </i>
-</h3>
+#### Languages
 
-<p align="center">
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=vsme&theme=github_dark_dimmed" />
-    &nbsp;&nbsp;
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vsme&layout=compact&langs_count=8&card_width=320&theme=github_dark_dimmed" />
-</p>
+<img height=180 align="right" src="https://github-readme-stats.vercel.app/api?username=vsme&theme=github_dark_dimmed" />
 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="javascript" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="typescript" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="html" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="css" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="nodejs" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="python" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/less/less.png" alt="less" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/sass/sass.png" alt="sass" /></code>
+
+#### Frameworks & Tools
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="git" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" alt="visual-studio-code" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png" alt="vue" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="react" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/vite/vite.png" alt="vite" /></code>
+
+---
+
+💬 Ask me about anything [here](https://github.com/vsme/vsme/issues).
 <!--
+✨ Never too old to learn
 **vsme/vsme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
