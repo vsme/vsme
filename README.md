@@ -4,7 +4,7 @@ Love life and enjoy programming.
 
 #### Languages
 
-<img height=180 align="right" src="https://github-readme-stats.vercel.app/api?username=vsme&theme=github_dark_dimmed" />
+<img height=180 align="right" src="https://github-readme-stats-seven-gules-74.vercel.app/api?username=vsme&theme=github_dark_dimmed" />
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="javascript" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="typescript" /></code>
